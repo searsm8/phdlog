@@ -10,16 +10,16 @@
 
 &#x2610; Refamiliarize with DREAMplace implementation.
 
-&#x2610; Walk through basic CMake tutorial.
+&#x2611; Walk through basic CMake tutorial.
 
-&#x2610; Investigate using the Limbo repository for LEF/DEF parsers
+&#x2611; Investigate using the Limbo repository for LEF/DEF parsers
 - &#x2611; Basic LEF/DEF example working in Limbo repo. (june 6)
 - &#x2611; Examine `test_adapt.cpp` for understanding of API for DEF. (june 6)
-- &#x2610; In my own code, read/Write LEF/DEF design files.
-- &#x2610; Play around with what comes out!
+- &#x2611; In my own code, read/Write LEF/DEF design files.
+- &#x2611; Play around with what comes out!
 
 &#x2610; Enable reading real benchmarks into C++
-- &#x2610; LEF/DEF
+- &#x2611; LEF/DEF
 - &#x2610; Bookshelf format
 
 &#x2610; Implement ePlace in C++. This will evolve into host code.
