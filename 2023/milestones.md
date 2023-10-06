@@ -24,6 +24,8 @@
 
 &#x2610; Implement ePlace in C++. This will evolve into host code.
 
+&#x2610; ePlace optimization by using simulated annelaing (or other hill climbing algo) on the hyperparams of the ePlace algo. Basically do the HLS project but with AIEplace.
+
 ### AIEplace Vitis tasks:
 
 &#x2610; Ability to run kernels for different net sizes.
